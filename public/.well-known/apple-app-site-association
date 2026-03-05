@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "YOURTEAMID.com.yourcompany.vitalytics",
+        "paths": ["/auth/token-login*", "/reset-password/*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["YOURTEAMID.com.yourcompany.vitalytics"]
+  }
+}
