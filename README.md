@@ -177,6 +177,7 @@ Official SDKs are available in separate repositories:
 
 - **[Laravel SDK](https://github.com/RyanG2016/vitalytics-laravel-sdk)**: Health monitoring and analytics for Laravel applications
 - **[.NET SDK](https://github.com/RyanG2016/vitalytics-dotnet-sdk)**: For Windows, macOS, and cross-platform .NET applications
+- **[Swift SDK](https://github.com/RyanG2016/vitalytics-swift-sdk)**: For iOS and macOS applications
 - **JavaScript SDK**: Included in `public/sdk/vitalytics.js` for web and Chrome extensions
 
 ## Documentation
